@@ -1,2 +1,2 @@
-# tewari.github.io
+# namantewari10.github.io
 Simple portfolio website of mine
